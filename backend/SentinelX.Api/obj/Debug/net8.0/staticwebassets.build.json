@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xy+L+7gfbD2gY3kgkl7lAQuiD7sLy3rYufIW+2RBsuQ=",
+  "Source": "SentinelX.Api",
+  "BasePath": "_content/SentinelX.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
